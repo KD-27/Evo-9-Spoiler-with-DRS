@@ -1,4 +1,4 @@
-#Active DRS Spoiler for Mitsubishi Lancer Evolution IX
+# Active DRS Spoiler for Mitsubishi Lancer Evolution IX
 
 This project features a custom Mitsubishi Lancer Evolution IX spoiler modification equipped with an active DRS (Drag Reduction System). The design aims to improve mechanical performance and test adjustable spoiler mechanics inspired by modern racing technology.
 
